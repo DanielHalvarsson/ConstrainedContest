@@ -1,12 +1,9 @@
 # Solving the budget constrained lottery contest with asymmetric valuation, with homogenous budget constraints
-
 # Find "m" given "k"
+# Daniel Halvarsson
 
+# Comments:
 # if k_star >= 2 then S > 2b and as M increases S such that k_star is binding
-
-# with fixed budget constraints
-
-# Does it work
 
 
 using Plots

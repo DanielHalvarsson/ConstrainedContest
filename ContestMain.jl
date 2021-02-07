@@ -6,6 +6,9 @@
 
 # with fixed budget constraints
 
+# Does it work
+
+
 using Plots
 
 function generate_budget(n)

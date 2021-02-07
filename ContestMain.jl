@@ -2,7 +2,6 @@
 
 # Find "m" given "k"
 
-
 # if k_star >= 2 then S > 2b and as M increases S such that k_star is binding
 
 

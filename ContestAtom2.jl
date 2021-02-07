@@ -1,4 +1,5 @@
 # Solving the budget constrained Tullock contest with asymmetric valuation
+
 # Find "m" given "k"
 
 
